@@ -1,0 +1,6 @@
+{
+  "name": "AquaSlah",
+  "description": "Unifying hydration tracking with Islamic prayer times, Qibla compass, Hijri calendar, and reflection journaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
